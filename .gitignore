@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Model and tokenizer files
+saved_models/
+*.pt
+*pth
+*.h5
+*.pkl
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db
+
+__pycache__/
+bert_gbv_detector.pth
+best_model.pth
