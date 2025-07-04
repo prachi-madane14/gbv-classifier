@@ -47,5 +47,5 @@
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/shrutipachpor810/gbv-classifier.git
+   git clone https://github.com/prachi-madane14/gbv-classifier.git
    cd gbv-classifier
